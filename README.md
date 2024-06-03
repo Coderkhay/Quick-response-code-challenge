@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I have always had some difficulty when it comes vertically centering elements but with some trial and error i was able to center my QRcode using the style below;
+I have always had some difficulty when it comes to vertically centering elements but with some trial and error i was able to center my QRcode using the style below;
 
 ```css
 body{
